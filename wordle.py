@@ -99,7 +99,6 @@ def compare_guess_to_answer(guess, answer):
 
 if __name__ == '__main__':
     answer = generate_correct_answer()
-    answer = 'canal'
 
     number_of_guesses = 0
 
